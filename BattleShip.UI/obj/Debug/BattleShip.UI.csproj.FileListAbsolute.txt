@@ -1,0 +1,30 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\Battleship.Tests.dll
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\nunit.framework.dll
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\Battleship.Tests.pdb
+C:\Users\Computer\Desktop\Battleship (1)\BattleShip.UI\bin\Debug\nunit.framework.xml
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\Battleship.Tests.dll
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\nunit.framework.dll
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\Battleship.Tests.pdb
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\bin\Debug\nunit.framework.xml
+C:\swgwork\patrick-fette-individual-work\Battleship\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
